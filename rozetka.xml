@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-11-12 15:26">
+<shop>
+<name></name>
+<company></company>
+<url></url>
+
+<currencies>
+<currency id="UAH" rate="1" />
+<currency id="PLN" rate="7" />
+<currency id="USD" rate="26.5" />
+<currency id="EUR" rate="30" />
+</currencies>
+
+<categories>
+<category id="1">Одежда, обувь и аксессуары</category>
+<category id="11" parentId="1">Одежда</category>
+<category id="111" parentId="11">Детская одежда</category>
+<category id="1111" parentId="111">Одежда для девочек</category>
+<category id="11111" parentId="1111">Платья, сарафаны и юбки</category>
+<category id="1111101" parentId="11111">Платья</category>
+<category id="1111102" parentId="11111">Сарафаны</category>
+<category id="1111103" parentId="11111">Юбки</category>
+<category id="11112" parentId="1111">Кофты и свитера</category>
+<category id="1111201" parentId="11112">Свитшоты</category>
+<category id="1111202" parentId="11112">Водолазки</category>
+<category id="1111203" parentId="11112">Свитера</category>
+<category id="1111204" parentId="11112">Кофты</category>
+<category id="1111205" parentId="11112">Кардиганы</category>
+<category id="1111206" parentId="11112">Джемперы</category>
+<category id="1111207" parentId="11112">Толстовки</category>
+<category id="1111208" parentId="11112">Худи</category>
+<category id="1111209" parentId="11112">Пуловеры</category>
+<category id="1111210" parentId="11112">Болеро</category>
+<category id="11113" parentId="1111">Футболки и майки</category>
+<category id="1111301" parentId="11113">Футболки с длинными рукавами</category>
+<category id="1111302" parentId="11113">Футболки</category>
+<category id="1111303" parentId="11113">Майки</category>
+<category id="1111304" parentId="11113">Топы</category>
+<category id="11114" parentId="1111">Брюки, шорты, лосины</category>
+<category id="1111401" parentId="11114">Лосины</category>
+<category id="1111402" parentId="11114">Брюки</category>
+<category id="1111403" parentId="11114">Шорты</category>
+<category id="1111404" parentId="11114">Леггинсы</category>
+<category id="1111405" parentId="11114">Бриджи</category>
+<category id="1111406" parentId="11114">Капри</category>
+<category id="11115" parentId="1111">Спортивная одежда</category>
+<category id="1111501" parentId="11115">Спортивные костюмы</category>
+<category id="1111502" parentId="11115">Спортивные брюки</category>
+<category id="1111503" parentId="11115">Спортивные кофты</category>
+<category id="11116" parentId="1111">Костюмы и жакеты для девочек</category>
+<category id="1111601" parentId="11116">Костюмы</category>
+<category id="1111602" parentId="11116">Жилеты</category>
+<category id="1111603" parentId="11116">Жакеты</category>
+<category id="11117" parentId="1111">Блузы и туники</category>
+<category id="1111701" parentId="11117">Туники</category>
+<category id="1111702" parentId="11117">Блузы</category>
+<category id="1111703" parentId="11117">Вышиванки</category>
+<category id="1111704" parentId="11117">Боди</category>
+<category id="1111705" parentId="11117">Рубашки</category>
+<category id="1111706" parentId="11117">Поло</category>
+<category id="11118" parentId="1111">Джинсовая одежда</category>
+<category id="1111801" parentId="11118">Джинсы</category>
+<category id="1111802" parentId="11118">Джеггинсы</category>
+<category id="1112" parentId="111">Одежда для мальчиков</category>
+<category id="11121" parentId="1112">Спортивная одежда</category>
+<category id="1112101" parentId="11121">Спортивные костюмы</category>
+<category id="1112102" parentId="11121">Спортивные брюки</category>
+<category id="1112103" parentId="11121">Спортивные кофты</category>
+<category id="11122" parentId="1112">Рубашки и футболки</category>
+<category id="1112201" parentId="11122">Футболки с длинным рукавом</category>
+<category id="1112202" parentId="11122">Футболки</category>
+<category id="1112203" parentId="11122">Рубашки</category>
+<category id="1112204" parentId="11122">Вышиванки</category>
+<category id="1112205" parentId="11122">Поло</category>
+<category id="1112206" parentId="11122">Майки</category>
+<category id="11123" parentId="1112">Кофты, свитера, кардиганы</category>
+<category id="1112301" parentId="11123">Свитшоты</category>
+<category id="1112302" parentId="11123">Толстовки</category>
+<category id="1112303" parentId="11123">Водолазки</category>
+<category id="1112304" parentId="11123">Кофты</category>
+<category id="1112305" parentId="11123">Джемперы</category>
+<category id="1112306" parentId="11123">Свитера</category>
+<category id="1112307" parentId="11123">Кардиганы</category>
+<category id="1112308" parentId="11123">Худи</category>
+<category id="1112309" parentId="11123">Пуловеры</category>
+<category id="11124" parentId="1112">Брюки, шорты и плавки</category>
+<category id="1112401" parentId="11124">Брюки</category>
+<category id="1112402" parentId="11124">Плавки</category>
+<category id="1112403" parentId="11124">Шорты</category>
+<category id="1112404" parentId="11124">Бермуды</category>
+<category id="1112405" parentId="11124">Бриджи</category>
+<category id="11125" parentId="1112">Джинсовая одежда</category>
+<category id="1112501" parentId="11125">Джинсы</category>
+<category id="1112602" parentId="11125">Джинсовые куртки</category>
+<category id="11126" parentId="1112">Пиджаки, костюмы и комплекты</category>
+<category id="1112601" parentId="11126">Костюмы</category>
+<category id="1112602" parentId="11126">Комплекты</category>
+<category id="1112603" parentId="11126">Пиджаки</category>
+<category id="1112604" parentId="11126">Жилеты</category>
+<category id="11127" parentId="1112">Комбинезоны и полукомбинезоны</category>
+<category id="1112701" parentId="11127">Комбинезоны</category>
+<category id="1112702" parentId="11127">Полукомбинезоны</category>
+</categories>
+
+<offers>
+<offer id="1" available="true">
+<price>389</price>
+<price_old>919</price_old>
+<currencyId>UAH</currencyId>
+<categoryId>1111801</categoryId>
+<stock_quantity>100</stock_quantity>
+<picture>https://picua.org/images/2019/02/06/1e36aa0ee27a831e6bdeab176a55c916.jpg; https://picua.org/images/2019/02/06/018326bdab865021b6dec7ddb46657ce.jpg; https://picua.org/images/2019/02/06/085e3787bce67278fd874c0bfc4c478c.jpg</picture>
+<name>Джинсы Marions 05903 140 см Черные</name>
+<vendor>Marions</vendor>
+<description>
+<![CDATA[<p>Джинсы узкого кроя. Модель украшена рисунками. Есть резинка для коррекции обьема пояса</p>]]>
+</description>
+<param name="Страна-производитель товара">Турция</param>
+<param name="Стиль">Повседневный (casual)</param>
+<param name="Артикул">0590000300140</param>
+<param name="Состав">98% коттон, 2% лайкра</param>
+<param name="Размер">140</param>
+<param name="Сезон">Всесезонная модель</param>
+<param name="Цвет">Черный</param>
+<param name="Декорирование">Потертости</param>
+<param name="Возраст">10 ЛЕТ</param>
+<param name="Материал">Коттон + лайкра</param>
+<param name="Особенности модели">Рисунок</param>
+<param name="Рост">140 см</param>
+</offer>
+
+<offer id="2" available="true">
+<price>389</price>
+<price_old>919</price_old>
+<currencyId>UAH</currencyId>
+<categoryId>1111801</categoryId>
+<stock_quantity>100</stock_quantity>
+<picture>https://picua.org/images/2019/02/06/1e36aa0ee27a831e6bdeab176a55c916.jpg; https://picua.org/images/2019/02/06/018326bdab865021b6dec7ddb46657ce.jpg; https://picua.org/images/2019/02/06/085e3787bce67278fd874c0bfc4c478c.jpg</picture>
+<name>Джинсы Marions 05903 146 см Черные</name>
+<vendor>Marions</vendor>
+<description>
+<![CDATA[<p>Джинсы узкого кроя. Модель украшена рисунками. Есть резинка для коррекции обьема пояса</p>]]>
+</description>
+<param name="Страна-производитель товара">Турция</param>
+<param name="Стиль">Повседневный (casual)</param>
+<param name="Артикул">0590000300146</param>
+<param name="Состав">98% коттон, 2% лайкра</param>
+<param name="Размер">146</param>
+<param name="Сезон">Всесезонная модель</param>
+<param name="Цвет">Черный</param>
+<param name="Декорирование">Потертости</param>
+<param name="Возраст">11 ЛЕТ</param>
+<param name="Материал">Коттон + лайкра</param>
+<param name="Особенности модели">Рисунок</param>
+<param name="Рост">146 см</param>
+</offer>
+
+<offer id="3" available="false">
+<price>389</price>
+<price_old>919</price_old>
+<currencyId>UAH</currencyId>
+<categoryId>1111801</categoryId>
+<stock_quantity>100</stock_quantity>
+<picture>https://picua.org/images/2019/02/06/1e36aa0ee27a831e6bdeab176a55c916.jpg; https://picua.org/images/2019/02/06/018326bdab865021b6dec7ddb46657ce.jpg; https://picua.org/images/2019/02/06/085e3787bce67278fd874c0bfc4c478c.jpg</picture>
+<name>Джинсы Marions 05903 152 см Черные</name>
+<vendor>Marions</vendor>
+<description>
+<![CDATA[<p>Джинсы узкого кроя. Модель украшена рисунками. Есть резинка для коррекции обьема пояса</p>]]>
+</description>
+<param name="Страна-производитель товара">Турция</param>
+<param name="Стиль">Повседневный (casual)</param>
+<param name="Артикул">0590000300152</param>
+<param name="Состав">98% коттон, 2% лайкра</param>
+<param name="Размер">152</param>
+<param name="Сезон">Всесезонная модель</param>
+<param name="Цвет">Черный</param>
+<param name="Декорирование">Потертости</param>
+<param name="Возраст">12 ЛЕТ</param>
+<param name="Материал">Коттон + лайкра</param>
+<param name="Особенности модели">Рисунок</param>
+<param name="Рост">152 см</param>
+</offer>
+
+<offer id="4" available="false">
+<price>389</price>
+<price_old>919</price_old>
+<currencyId>UAH</currencyId>
+<categoryId>1111801</categoryId>
+<stock_quantity>100</stock_quantity>
+<picture>https://picua.org/images/2019/02/06/1e36aa0ee27a831e6bdeab176a55c916.jpg; https://picua.org/images/2019/02/06/018326bdab865021b6dec7ddb46657ce.jpg; https://picua.org/images/2019/02/06/085e3787bce67278fd874c0bfc4c478c.jpg</picture>
+<name>Джинсы Marions 05903 158 см Черные</name>
+<vendor>Marions</vendor>
+<description>
+<![CDATA[<p>Джинсы узкого кроя. Модель украшена рисунками. Есть резинка для коррекции обьема пояса</p>]]>
+</description>
+<param name="Страна-производитель товара">Турция</param>
+<param name="Стиль">Повседневный (casual)</param>
+<param name="Артикул">0590000300158</param>
+<param name="Состав">98% коттон, 2% лайкра</param>
+<param name="Размер">158</param>
+<param name="Сезон">Всесезонная модель</param>
+<param name="Цвет">Черный</param>
+<param name="Декорирование">Потертости</param>
+<param name="Возраст">13 ЛЕТ</param>
+<param name="Материал">Коттон + лайкра</param>
+<param name="Особенности модели">Рисунок</param>
+<param name="Рост">158 см</param>
+</offer>
+
+<offer id="5" available="true">
+<price>389</price>
+<price_old>919</price_old>
+<currencyId>UAH</currencyId>
+<categoryId>1111801</categoryId>
+<stock_quantity>100</stock_quantity>
+<picture>https://picua.org/images/2019/02/06/1e36aa0ee27a831e6bdeab176a55c916.jpg; https://picua.org/images/2019/02/06/018326bdab865021b6dec7ddb46657ce.jpg; https://picua.org/images/2019/02/06/085e3787bce67278fd874c0bfc4c478c.jpg</picture>
+<name>Джинсы Marions 05903 164 см Черные</name>
+<vendor>Marions</vendor>
+<description>
+<![CDATA[<p>Джинсы узкого кроя. Модель украшена рисунками. Есть резинка для коррекции обьема пояса</p>]]>
+</description>
+<param name="Страна-производитель товара">Турция</param>
+<param name="Стиль">Повседневный (casual)</param>
+<param name="Артикул">0590000300164</param>
+<param name="Состав">98% коттон, 2% лайкра</param>
+<param name="Размер">164</param>
+<param name="Сезон">Всесезонная модель</param>
+<param name="Цвет">Черный</param>
+<param name="Декорирование">Потертости</param>
+<param name="Возраст">14 ЛЕТ</param>
+<param name="Материал">Коттон + лайкра</param>
+<param name="Особенности модели">Рисунок</param>
+<param name="Рост">164 см</param>
+</offer>
+
+</offers>
+</shop>
+</yml_catalog>
