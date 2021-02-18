@@ -5,7 +5,8 @@ public class Trial implements Serializable {
     private int numOfLaunches = 0;
 
     public int getNumOfLaunches() {
-        return numOfLaunches;
+        //return numOfLaunches;
+        return 0;
     }
 
     public void setNumOfLaunches(int numOfLaunches) {
